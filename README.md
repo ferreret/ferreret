@@ -10,7 +10,7 @@
 
 Senior **Software Engineer** with **25+ years** building enterprise systems, document management platforms and process automation. Physicist by training, engineer by insistence.
 
-Since 2023 I've been deliberately reorienting my craft toward **AI Agents**, **LLM orchestration** and **agentic development workflows** — combining a strong foundation in **.NET / C#** with **Python**, **FastAPI** and a modern **React 19 + TypeScript** stack.
+Since 2023 I've been deliberately reorienting my craft toward **AI Agents**, **LLM orchestration** and **agentic development workflows** — combining a strong foundation in **.NET / C#** with **Python** and **FastAPI** on the backend. On the frontend I lean on **React 19 + TypeScript** for the apps I ship, while still leveling up the React side.
 
 ⚡ I build tools I use myself first: a personal Obsidian vault driven by Claude Code agents, dashboards on top of Garmin / Google Calendar / Proxmox, an investment tracker for my family, and several agent prototypes. Most of them live in this profile.
 
