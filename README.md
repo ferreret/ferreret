@@ -1,135 +1,134 @@
-# 👨‍💻 Nicolás Barceló Lozano  
+# 👨‍💻 Nicolás Barceló Lozano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ferreret/)  
-📍 Barcelona, Spain | ✉️ ferreret@gmail.com  
-
----
-
-## 🚀 About Me  
-
-Senior **Data Scientist & Software Engineer** with **25+ years of experience** designing and implementing high-impact solutions across enterprise systems, document management, and process automation.  
-
-Currently focused on **AI Agents**, **LLM orchestration**, and **intelligent automation**, combining a strong foundation in **.NET development** with expertise in **Python**, **NLP**, and **Generative AI**.  
-
-⚡ Passionate about **rapid prototyping, testing, and scaling AI systems** that enhance decision-making, optimize workflows, and deliver measurable business impact.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ferreret/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicolasbarcelo.dev-7c3aed?logo=vercel)](https://portfolio.nicolasbarcelo.dev)
+📍 Barcelona, Spain | ✉️ ferreret@gmail.com
 
 ---
 
-## 💼 Professional Experience  
+## 🚀 About Me
 
-### 🏢 Tecnomedia Sistemas — *Data and Documentation Technology Specialist*  
-📍 Barcelona, Spain | 📆 Nov 2002 – Present  
+Senior **Software Engineer** with **25+ years** building enterprise systems, document management platforms and process automation. Physicist by training, engineer by insistence.
 
-- 🤖 **AI Agents & Generative AI**  
-  - Built and deployed **AI agents** for decision automation and enterprise integration using **LangChain**, **LangGraph**, **CrewAI**, **n8n**, and **Azure AI**.  
-  - Integrated **OpenAI SDK** for reliable LLM-based automation.  
-  - Designed **multi-agent orchestration pipelines** (document workflows, healthcare scheduling, CRM).  
+Since 2023 I've been deliberately reorienting my craft toward **AI Agents**, **LLM orchestration** and **agentic development workflows** — combining a strong foundation in **.NET / C#** with **Python** and **FastAPI** on the backend. On the frontend I lean on **React 19 + TypeScript** for the apps I ship, while still leveling up the React side.
 
-- 📄 **Document & Data Solutions**  
-  - Led development of **document management applications** in **.NET (C#/WPF/WinForms)** and **SQL Server**.  
-  - Created workflows for digitization, indexing, OCR/ICR, and barcode recognition.  
-
-- 📊 **AI/ML Projects**  
-  - Developed **text classification (NLP)** for knowledge management.  
-  - Directed a **quality prediction project** in the chemical industry.  
-
-- 🔗 **Integration & Automation**  
-  - Implemented **RPA solutions** with **C#, Python, n8n**.  
-  - Built **REST APIs** with **Minimal API** and **FastAPI**.  
+⚡ I build tools I use myself first: a personal Obsidian vault driven by Claude Code agents, dashboards on top of Garmin / Google Calendar / Proxmox, an investment tracker for my family, and several agent prototypes. Most of them live in this profile.
 
 ---
 
-### 🏢 NexTReT — *Programmer / Analyst Programmer*  
-📍 Barcelona, Spain | 📆 Dec 2000 – Nov 2002  
-- Built **enterprise applications** in **VB6**, **ASP (VBScript)**, and **SQL Server**.  
-- Developed **HR and payroll management systems** with PowerBuilder.  
+## 💼 Professional Experience
+
+### 🏢 Tecnomedia Sistemas — *Data & Documentation Technology Specialist*
+📍 Barcelona, Spain | 📆 Nov 2002 – Present
+
+- 🤖 **AI Agents & Generative AI**
+  - Building and shipping **AI agents** for enterprise document workflows using **Claude Code**, **LangChain**, **LangGraph**, **CrewAI**, **n8n** and **Azure AI**.
+  - **MCP** (Model Context Protocol) servers and clients for first-class agent integrations.
+  - Reliable LLM orchestration with **OpenAI**, **Gemini** and **Anthropic** SDKs.
+
+- 📄 **Document & Data Platforms**
+  - Lead developer on document management products in **.NET (C# / WPF / WinForms)** and **SQL Server** — currently porting the legacy stack to **.NET 10 + FastAPI + React 19**.
+  - Multi-tenant pipelines for digitization, indexing, OCR/ICR and barcode/PDF417 recognition.
+
+- 📊 **AI / ML Projects**
+  - Text classification and NLP for knowledge management.
+  - Industrial quality prediction with classical ML.
+
+- 🔗 **Integration & Automation**
+  - **REST APIs** with **FastAPI** and **.NET Minimal API**.
+  - **RPA** and integration glue with **C#**, **Python** and **n8n**.
 
 ---
 
-### 🏢 Datasix Sistemas — *Consultant*  
-📍 Barcelona, Spain | 📆 Oct 1999 – Dec 2000  
-- Designed **Business Intelligence solutions** (VBA, SQL Server, OLAP).  
-- Built **Data Warehouses and Data Marts**.  
+### 🏢 NexTReT — *Programmer / Analyst Programmer*
+📍 Barcelona, Spain | 📆 Dec 2000 – Nov 2002
+- Enterprise applications in **VB6**, **ASP (VBScript)** and **SQL Server**.
+- HR and payroll management systems with **PowerBuilder**.
 
 ---
 
-## 🎓 Education  
-
-- 🎓 **Master’s in AI, Data Science & ML, Big Data** — IEBS Business School (2022–2023)  
-- 🎓 **Bachelor’s Degree in Physics** — Universitat de Barcelona (1999)  
-
----
-
-## 📜 Certifications  
-
-- ✅ Tensorflow Developer Certificate (2024)  
-- ✅ AZ-900 Microsoft Azure Fundamentals  
-- ✅ AI-900 Azure AI Fundamentals  
-- ✅ PCEP-30-02 Python Entry-Level Programmer  
-- ✅ PCEP-31-03 Python Associate Programmer  
+### 🏢 Datasix Sistemas — *Consultant*
+📍 Barcelona, Spain | 📆 Oct 1999 – Dec 2000
+- Business Intelligence solutions (**VBA**, **SQL Server**, **OLAP**).
+- Data Warehouses and Data Marts.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🎓 Education
 
-### 🤖 AI & Machine Learning  
-![LLMs](https://img.shields.io/badge/LLMs-Enabled-orange?logo=openai)  
-![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)  
-![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-green)  
-![CrewAI](https://img.shields.io/badge/CrewAI-MultiAgent-red)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0-orange?logo=tensorflow)  
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikitlearn)  
-![NLP](https://img.shields.io/badge/NLP-Pipelines-blueviolet)  
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-lightblue)  
-![YOLO](https://img.shields.io/badge/YOLO-Computer%20Vision-green)  
+- 🎓 **Master’s in AI, Data Science & ML, Big Data** — IEBS Business School (2022–2023)
+- 🎓 **Bachelor’s Degree in Physics** — Universitat de Barcelona (1999)
 
 ---
 
-### 💻 Software Development  
-![C#](https://img.shields.io/badge/C%23-.NET-blue?logo=csharp)  
-![VB.NET](https://img.shields.io/badge/VB.NET-Framework-lightgrey)  
-![WinForms](https://img.shields.io/badge/WinForms-UI-blue)  
-![WPF](https://img.shields.io/badge/WPF-UI-darkblue)  
-![Python](https://img.shields.io/badge/Python-3.11+-yellow?logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Framework-3178c6?logo=typescript)  
+## 📜 Certifications
+
+- ✅ TensorFlow Developer Certificate (2024)
+- ✅ AZ-900 Microsoft Azure Fundamentals
+- ✅ AI-900 Azure AI Fundamentals
+- ✅ PCEP-30-02 Python Entry-Level Programmer
+- ✅ PCEP-31-03 Python Associate Programmer
 
 ---
 
-### ☁️ Data & Cloud  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-DB-red?logo=microsoftsqlserver)  
-![NoSQL](https://img.shields.io/badge/NoSQL-Databases-lightgrey?logo=mongodb)  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)  
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)  
+## 🛠️ Tech Stack
+
+### 🤖 AI & Agents
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Agentic%20Dev-d97757?logo=anthropic)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-7c3aed)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1c3c3c)
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-228B22)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?logo=openai)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-API-1a73e8?logo=googlegemini)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Gen-lightblue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
 
 ---
 
-### ⚙️ Automation & APIs  
-![RPA](https://img.shields.io/badge/RPA-Automation-green)  
-![n8n](https://img.shields.io/badge/n8n-LowCode-orange?logo=n8n)  
-![FastAPI](https://img.shields.io/badge/FastAPI-Python-green?logo=fastapi)  
-![REST](https://img.shields.io/badge/REST-API-blue?logo=swagger)  
+### 💻 Backend
+![C#](https://img.shields.io/badge/C%23-.NET%2010-512bd4?logo=csharp)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3.12+-yellow?logo=python)
+![REST](https://img.shields.io/badge/REST-API-blue?logo=swagger)
+
+### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?logo=typescript)
+![React](https://img.shields.io/badge/React-19-61dafb?logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-v4-38bdf8?logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-Build-646cff?logo=vite)
+
+### 🗄️ Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-DB-cc2927?logo=microsoftsqlserver)
+![SQLite](https://img.shields.io/badge/SQLite-Embedded-003b57?logo=sqlite)
+![Alembic](https://img.shields.io/badge/Alembic-Migrations-1c1c1c)
+
+### ☁️ Infra & DevOps
+![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-e57000?logo=proxmox)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ed?logo=docker)
+![Dokploy](https://img.shields.io/badge/Dokploy-Self--hosted%20PaaS-0d9488)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnel-f38020?logo=cloudflare)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078d4?logo=microsoftazure)
+
+### ⚙️ Automation & Workflows
+![n8n](https://img.shields.io/badge/n8n-Low--Code-ea4b71?logo=n8n)
+![RPA](https://img.shields.io/badge/RPA-Automation-2e8b57)
 
 ---
 
-### 📊 BI & Visualization  
-![Power BI](https://img.shields.io/badge/Power%20BI-BI-yellow?logo=powerbi)  
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboards-red?logo=streamlit)  
+## 🌍 Languages
+
+- 🇪🇸 Spanish — Native
+- 🏴 Catalan — Native
+- 🇬🇧 English — Professional
 
 ---
 
-## 🌍 Languages  
-- 🇪🇸 Spanish — Native  
-- 🏴 Catalan — Native  
-- 🇬🇧 English — Professional  
+## 📫 Let’s Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/ferreret/) · 🌐 [portfolio.nicolasbarcelo.dev](https://portfolio.nicolasbarcelo.dev) · 📧 ferreret@gmail.com
 
 ---
 
-## 📫 Let’s Connect  
-
-💼 [LinkedIn](https://www.linkedin.com/in/ferreret/)  
-📧 ferreret@gmail.com  
-
----
-⭐ Always eager to collaborate on **AI-powered solutions**, **LLM orchestration**, and **enterprise automation** projects.  
-
+⭐ Always open to collaborate on **AI agents**, **LLM orchestration** and **enterprise automation** projects.
